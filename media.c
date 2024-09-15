@@ -12,9 +12,7 @@ setlocale (LC_ALL,"");
     scanf("%f", &n1);
     printf("\nAgora digite a segunda nota: ");
     scanf("%f", &n2);
-    printf("\nA media entre as duas notas é de: %f", (n1 + n2) / 2);
-
-   
-   
+    printf("\nA media entre as duas notas é de: %.2f\n", (n1 + n2) / 2);
+      
 
 }
