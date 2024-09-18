@@ -1,6 +1,6 @@
 # Programas basico em c da facudade
 
-Nes repositorio será adicionado todas as ativadade em C que forem passadas na faculdade ou curso de sites de terceiro.
+Neste repositorio será adicionado todas as ativadade em C que forem passadas na faculdade ou curso de sites de terceiro.
 
 Será utilizado linguagem C, feitas no VIRTUAL STUDIO CODE.
 
